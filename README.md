@@ -1,8 +1,42 @@
-# React + Vite
+# Movie Discovery Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
 
-Currently, two official plugins are available:
+The Movie Discovery Web Application is a web-based platform for discovering information about movies. It allows users to search for movies, view their release dates and the runtime of movies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## [Demo Link](https://hngtask2yatin.netlify.app/)
+
+## Installation
+
+1. Clone the repository:
+
+bash
+https://github.com/yatinbahl26/Task2_Zuri.git
+
+
+2. Install dependencies:
+
+bash
+cd HNGx-Stage-Two-Task
+npm install
+axios
+react
+react-dom
+react-router-dom
+react-slick
+slick-carousel
+
+
+## Usage
+
+1. Start the application:
+
+bash
+npm start
+
+
+2. Open your web browser and go to `http://localhost:5173`.
+
+## API
+
+This application uses the [TMDB API](https://www.themoviedb.org/documentation/api) for fetching movie data.
