@@ -10,13 +10,13 @@ The Movie Discovery Web Application is a web-based platform for discovering info
 
 1. Clone the repository:
 
-bash
+```bash
 https://github.com/yatinbahl26/Task2_Zuri.git
-
+```
 
 2. Install dependencies:
 
-bash
+```bash
 cd HNGx-Stage-Two-Task
 npm install
 axios
@@ -25,18 +25,19 @@ react-dom
 react-router-dom
 react-slick
 slick-carousel
-
+```
 
 ## Usage
 
 1. Start the application:
 
-bash
+```bash
 npm start
-
+```
 
 2. Open your web browser and go to `http://localhost:5173`.
 
 ## API
 
 This application uses the [TMDB API](https://www.themoviedb.org/documentation/api) for fetching movie data.
+
