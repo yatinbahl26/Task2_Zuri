@@ -21,7 +21,7 @@ const Footer = () => {
         </div>
 
         <div className='copyright'>
-        © 2021 MovieBox by Adriana Eka Prayudha  
+        © 2023 MovieBox by Yatin Bahl  
         </div>
     </div>
   )
